@@ -10,7 +10,7 @@ This folder has all the code required for the initial setup of the frontend deve
 4. React Query
 5. Material UI
 6. Test Files (JEST and RTL)
-7. 
+
 
 ## Backend
 1. Routes
